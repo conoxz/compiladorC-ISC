@@ -1,0 +1,6 @@
+main{	
+int cono;
+	if(s3>3){
+	}else{
+	}end
+}

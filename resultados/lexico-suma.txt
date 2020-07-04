@@ -1,0 +1,16 @@
+palabra_reservada => main
+caracter_simple => {
+palabra_reservada => if
+caracter_simple => (
+id => x
+mayor => >
+id => x
+caracter_simple => )
+palabra_reservada => then
+id => c
+asignacion => :=
+entero => 4
+caracter_simple => ;
+palabra_reservada => end
+caracter_simple => }
+

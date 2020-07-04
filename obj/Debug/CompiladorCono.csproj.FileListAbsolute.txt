@@ -1,0 +1,27 @@
+C:\Users\conox\Desktop\8o Semestre\Compiladores\CompiladorCono\bin\Debug\CompiladorCono.exe.config
+C:\Users\conox\Desktop\8o Semestre\Compiladores\CompiladorCono\bin\Debug\CompiladorCono.exe
+C:\Users\conox\Desktop\8o Semestre\Compiladores\CompiladorCono\bin\Debug\CompiladorCono.pdb
+C:\Users\conox\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.csprojAssemblyReference.cache
+C:\Users\conox\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.Properties.Resources.resources
+C:\Users\conox\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.csproj.GenerateResource.cache
+C:\Users\conox\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.exe
+C:\Users\conox\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.pdb
+C:\Users\conox\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.CompiladorCono.resources
+C:\Users\usuario\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.CompiladorCono.resources
+C:\Users\usuario\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.Properties.Resources.resources
+C:\Users\usuario\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.exe
+C:\Users\usuario\Desktop\8o Semestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.pdb
+C:\Users\usuario\Desktop\8o Semestre\Compiladores\CompiladorCono\bin\Debug\CompiladorCono.exe.config
+C:\Users\usuario\Desktop\8o Semestre\Compiladores\CompiladorCono\bin\Debug\CompiladorCono.exe
+C:\Users\usuario\Desktop\8o Semestre\Compiladores\CompiladorCono\bin\Debug\CompiladorCono.pdb
+C:\Users\usuario\Desktop\8oSemestre\Compiladores\CompiladorCono\bin\Debug\CompiladorCono.exe.config
+C:\Users\usuario\Desktop\8oSemestre\Compiladores\CompiladorCono\bin\Debug\CompiladorCono.exe
+C:\Users\usuario\Desktop\8oSemestre\Compiladores\CompiladorCono\bin\Debug\CompiladorCono.pdb
+C:\Users\usuario\Desktop\8oSemestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\8oSemestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.CompiladorCono.resources
+C:\Users\usuario\Desktop\8oSemestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.Properties.Resources.resources
+C:\Users\usuario\Desktop\8oSemestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\8oSemestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.exe
+C:\Users\usuario\Desktop\8oSemestre\Compiladores\CompiladorCono\obj\Debug\CompiladorCono.pdb

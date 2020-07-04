@@ -1,0 +1,19 @@
+palabra_reservada => main
+caracter_simple => {
+palabra_reservada => int
+id => cono
+caracter_simple => ;
+palabra_reservada => if
+caracter_simple => (
+id => s3
+mayor => >
+entero => 3
+caracter_simple => )
+caracter_simple => {
+caracter_simple => }
+palabra_reservada => else
+caracter_simple => {
+caracter_simple => }
+palabra_reservada => end
+caracter_simple => }
+

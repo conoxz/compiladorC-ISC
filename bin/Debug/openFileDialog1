@@ -1,0 +1,8 @@
+main{
+
+int cono,u,xd
+ real xd2,dd,d
+
+cono:=u*21.2;
+x:=2;
+}

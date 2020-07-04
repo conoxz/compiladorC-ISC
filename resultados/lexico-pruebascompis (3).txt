@@ -1,0 +1,21 @@
+palabra_reservada => main
+caracter_simple => {
+id => conbo
+asignacion => :=
+id => j
+caracter_simple => ;
+palabra_reservada => if
+caracter_simple => (
+id => cib
+menor => <
+entero => 7
+caracter_simple => )
+palabra_reservada => then
+id => cono
+asignacion => :=
+entero => 77
+caracter_simple => ;
+palabra_reservada => end
+caracter_simple => ;
+caracter_simple => }
+

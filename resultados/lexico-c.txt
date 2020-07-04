@@ -1,0 +1,16 @@
+caracter_simple => (
+entero => 540
+operador => *
+entero => 3456
+operador => +
+entero => 1
+caracter_simple => )
+operador => /
+caracter_simple => (
+entero => 2
+operador => ^
+entero => 3
+operador => +
+entero => 2
+caracter_simple => )
+

@@ -1,0 +1,26 @@
+palabra_reservada => main
+caracter_simple => {
+palabra_reservada => int
+id => cono
+caracter_simple => ,
+id => u
+caracter_simple => ,
+id => xd
+palabra_reservada => real
+id => xd2
+caracter_simple => ,
+id => dd
+caracter_simple => ,
+id => d
+id => cono
+asignacion => :=
+id => u
+operador => *
+float => 21.2
+caracter_simple => ;
+id => x
+asignacion => :=
+entero => 2
+caracter_simple => ;
+caracter_simple => }
+
